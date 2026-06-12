@@ -18,7 +18,7 @@ A community-driven, complete Bengali (bn_BD) language translation pack for WHMCS
 
 ## 🛠 Usage of Overrides
 To ensure your custom modifications are not lost during software updates, it is highly recommended to use the **Overrides** feature.
-- Copy your custom translations to `/lang/overrides/bengali.php`.
+- Copy your custom translations to `/lang/bengali.php`.
 - Visit the official [WHMCS Overrides Documentation](https://developers.whmcs.com/languages/overrides/) for more details.
 
 ## 🤝 Contribution
